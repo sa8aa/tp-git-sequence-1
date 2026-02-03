@@ -1,0 +1,9 @@
+# Exécutables
+bienvenue
+*.exe
+
+# Fichiers objets
+*.o
+
+# Fichiers temporaires
+*~
