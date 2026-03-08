@@ -21,3 +21,10 @@ La fonction afficherBienvenue prend deux paramètres :
 
 - message : le message de bienvenue
 - nbAffichage : nombre de fois que le message doit s'afficher (1 par défaut)
+## Utilisation
+
+./programme [message] [nbAffichage]
+
+Exemple :
+
+./programme Bonjour 3
