@@ -15,3 +15,9 @@ Bienvenue le monde !
 
 - Ajout de la fonctionnalité `feature-xyz` pour améliorer la gestion des utilisateurs.
 - Correction du fichier README.md pour mieux documenter le processus de compilation et d'exécution.
+## Fonction afficherBienvenue
+
+La fonction afficherBienvenue prend deux paramètres :
+
+- message : le message de bienvenue
+- nbAffichage : nombre de fois que le message doit s'afficher (1 par défaut)

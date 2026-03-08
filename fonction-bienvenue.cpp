@@ -1,7 +1,10 @@
 #include "fonction-bienvenue.h"
 #include <iostream>
 
-void afficherBienvenue(std::string message/*="Bienvenue le monde !"*/)
+void afficherBienvenue(string message, int nbAffichage = 1)
 {
-    std::cout << message << std::endl;
+    for(int i = 0; i < nbAffichage; i++)
+    {
+        cout << message << endl;
+    }
 }
